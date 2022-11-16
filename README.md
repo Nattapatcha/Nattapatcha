@@ -1,5 +1,5 @@
-### Hi there 👋
-- 🌱 I’m currently learning ...
+### Hi there im Nattapat
+- 🌱 I’m currently learning at  Rajamangala University of Technology Lanna 
 
 <!--
 **Nattapatcha/Nattapatcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
